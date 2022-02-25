@@ -153,7 +153,7 @@ In order for our application to show up in the shotgun launcher, we need to add 
 
 * Navigate to your shotgun url, ie. `example.shotgunstudio.com`, and once logged in, clink in the Shotgun Settings menu, the arrow at the top right of the webpage, close to your user picture. 
 * Click in the Software menu
-![select_a_project_configuration](config/images/select_a_project_configuration.png)
+![select_a_project_configuration](config/images/software_entity.png)
 
 * We will create a new entry for Substance Painter, called "Substance Painter" and whose description was conveniently copy and pasted from Wikipedia.
 ![create_new_software](config/images/create_new_software.png)
